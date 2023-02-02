@@ -1,2 +1,5 @@
 # -Echarts5-
+前端：Echarts5+vue3  axios<br>
+后台：node.js+express创建接口
+
 <img src="1.jpg">
