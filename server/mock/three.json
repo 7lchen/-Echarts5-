@@ -1,0 +1,10 @@
+{
+    "chartData":[
+        {"name":"苹果","value":1827},
+        {"name":"蔬菜","value":523},
+        {"name":"医疗","value":123},
+        {"name":"电子","value":256},
+        {"name":"设备","value":2536},
+        {"name":"杂项","value":536}
+    ]
+}
