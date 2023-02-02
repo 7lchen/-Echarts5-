@@ -5,3 +5,4 @@
 <img src="1.jpg">
 
 地图json获取：http://datav.aliyun.com/portal/school/atlas/area_selector
+<br>跨域问题解决：cros跨域
